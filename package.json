@@ -1,0 +1,16 @@
+{
+  "name": "watch-tube-tv",
+  "version": "1.0.0",
+  "description": "A static website for Watch Tube TV streaming service.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
